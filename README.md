@@ -25,7 +25,7 @@ It covers everything from **fundamentals of NLP → transformer internals → tr
 - Implementing a custom tokenizer
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Byte-pair_encoding.png" width="500">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Byte_pair_encoding.svg" width="500">
 </p>
 
 ---
@@ -54,6 +54,10 @@ It covers everything from **fundamentals of NLP → transformer internals → tr
 - Layer Normalization & Residual Connections
 - Building a Transformer Block
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Transformer_architecture.png" width="600">
+</p>
+
 ---
 
 ### **6. Training the Model**
@@ -72,7 +76,7 @@ It covers everything from **fundamentals of NLP → transformer internals → tr
 - Sampling methods: Greedy, Top-k, Temperature scaling
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/GPT_architecture.png" width="500">
+  <img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/transformers_architecture.png" width="600">
 </p>
 
 ---
@@ -92,7 +96,7 @@ It covers everything from **fundamentals of NLP → transformer internals → tr
 - Dialogue systems
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1687203753662-7b1b4d1f1f9e" width="600">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/ChatGPT_logo.svg" width="150">
 </p>
 
 ---
@@ -112,7 +116,7 @@ It covers everything from **fundamentals of NLP → transformer internals → tr
 - Evaluating LLM performance
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Retrieval-augmented_generation.png" width="600">
+  <img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/rag.png" width="600">
 </p>
 
 ---
